@@ -24,4 +24,4 @@ My product code is private (commercial software), so here is what it does:
 TypeScript · Node.js (NestJS, Fastify) · React · Next.js · React Native · PostgreSQL · SQL Server · Oracle · Redis/BullMQ · Python · Docker
 
 ## Work with me
-Available for freelance projects, async-first. Find me on [Upwork](https://www.upwork.com/freelancers/~01264db9f6f17fb8f5).
+Available for freelance projects, async-first. Find me on [Upwork](https://www.upwork.com/freelancers/~01264db9f6f17fb8f5) or [LinkedIn](https://www.linkedin.com/in/leonardozolese).
